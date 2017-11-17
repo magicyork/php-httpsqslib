@@ -1,0 +1,19 @@
+{
+    "name": "wuwei/httpsqs",
+    "description": "httpsqs client",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "wuwei",
+            "email": "279336299@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	},
+    "autoload": {
+        "psr-4": {
+            "Httpsqs\\": "src/"
+        }
+    }
+}
