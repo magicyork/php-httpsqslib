@@ -8,7 +8,7 @@
             "email": "279336299@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0",
     "require": {
 	},
     "autoload": {
